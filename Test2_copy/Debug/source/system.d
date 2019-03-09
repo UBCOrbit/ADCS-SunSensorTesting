@@ -1,0 +1,73 @@
+# FIXED
+
+source/system.obj: ../source/system.c
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/system.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_system.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/sys_common.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/hal_stdtypes.h
+source/system.obj: /home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/stdint.h
+source/system.obj: /home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/stdbool.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_gio.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_flash.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_tcram.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/sys_selftest.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_pbist.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_stc.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_efc.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/sys_core.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/sys_vim.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_vim.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/adc.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_adc.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/can.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_can.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/mibspi.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_mibspi.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/het.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_het.h
+source/system.obj: /home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/string.h
+source/system.obj: /home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/linkage.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/htu.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_htu.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/esm.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_esm.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/sys_pcr.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_pcr.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/pinmux.h
+source/system.obj: /home/tiger/ADCS/workspace/Test2_copy/include/reg_pinmux.h
+
+../source/system.c: 
+/home/tiger/ADCS/workspace/Test2_copy/include/system.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_system.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/sys_common.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/hal_stdtypes.h: 
+/home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/stdint.h: 
+/home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/stdbool.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_gio.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_flash.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_tcram.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/sys_selftest.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_pbist.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_stc.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_efc.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/sys_core.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/sys_vim.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_vim.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/adc.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_adc.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/can.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_can.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/mibspi.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_mibspi.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/het.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_het.h: 
+/home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/string.h: 
+/home/tiger/ADCS/workspace/ccsv7/tools/compiler/ti-cgt-arm_16.9.6.LTS/include/linkage.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/htu.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_htu.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/esm.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_esm.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/sys_pcr.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_pcr.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/pinmux.h: 
+/home/tiger/ADCS/workspace/Test2_copy/include/reg_pinmux.h: 
